@@ -1,4 +1,4 @@
-# Matlab_preeqc_SI
+# Matlab_IPhreeqc_SI
 A Matlab code to use PHREEQC modules to calculate solution Saturation Index (SI) for different minerals
 
 The initialization of the code requires install of phreeqc COM modules 32/64 bit, only windows 
